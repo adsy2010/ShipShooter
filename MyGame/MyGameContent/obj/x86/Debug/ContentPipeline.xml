@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MainText.spritefont</Source>
+      <Name>MainText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\MainText.xnb</Output>
+      <Time>2013-01-14T21:17:29.5860709+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Jittery.mp3</Source>
+      <Name>Jittery</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\Jittery.xnb</Output>
+      <Extra>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\Jittery.wma</Extra>
+      <Time>2013-01-14T20:05:44.2768213+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\ZINGSPLT.WAV</Source>
+      <Name>sounds\ZINGSPLT</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sounds\ZINGSPLT.xnb</Output>
+      <Time>2013-01-16T21:54:08.3346543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\EXPLODE.WAV</Source>
+      <Name>sounds\EXPLODE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sounds\EXPLODE.xnb</Output>
+      <Time>2013-01-19T10:53:12.289443+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\LASER21.WAV</Source>
+      <Name>sounds\LASER21</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sounds\LASER21.xnb</Output>
+      <Time>2013-01-19T13:58:58.976997+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\fmtorp2.wav</Source>
+      <Name>sounds\fmtorp2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sounds\fmtorp2.xnb</Output>
+      <Time>2013-01-19T14:04:55.7684043+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\redalert.wav</Source>
+      <Name>sounds\redalert</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sounds\redalert.xnb</Output>
+      <Time>2013-01-19T14:09:29.3580527+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\ship_main.png</Source>
+      <Name>sprites\ship_main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\ship_main.xnb</Output>
+      <Time>2013-01-07T20:31:42.1741769+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\space_background.png</Source>
+      <Name>sprites\space_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\space_background.xnb</Output>
+      <Time>2013-01-12T12:18:02.3725804+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\fireball.png</Source>
+      <Name>sprites\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">163, 73, 164, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\fireball.xnb</Output>
+      <Time>2013-01-09T19:26:01.1699327+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\beam.png</Source>
+      <Name>sprites\beam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">163, 73, 164, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\beam.xnb</Output>
+      <Time>2013-01-09T20:43:23.9332133+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\arrow.png</Source>
+      <Name>sprites\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">163, 73, 164, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\arrow.xnb</Output>
+      <Time>2013-01-14T19:54:57.9118514+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\ship_enemy.png</Source>
+      <Name>sprites\ship_enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\ship_enemy.xnb</Output>
+      <Time>2013-01-16T21:37:20.6970207+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\ship_enemy1.png</Source>
+      <Name>sprites\ship_enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\documents\visual studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\sprites\ship_enemy1.xnb</Output>
+      <Time>2013-01-20T20:39:00.835364+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-31T22:00:18.0615531+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

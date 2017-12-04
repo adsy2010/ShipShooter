@@ -1,0 +1,15 @@
+Content\MainText.xnb
+Content\Jittery.xnb
+Content\Jittery.wma
+Content\sounds\ZINGSPLT.xnb
+Content\sounds\EXPLODE.xnb
+Content\sounds\LASER21.xnb
+Content\sounds\fmtorp2.xnb
+Content\sounds\redalert.xnb
+Content\sprites\ship_main.xnb
+Content\sprites\space_background.xnb
+Content\sprites\fireball.xnb
+Content\sprites\beam.xnb
+Content\sprites\arrow.xnb
+Content\sprites\ship_enemy.xnb
+Content\sprites\ship_enemy1.xnb
